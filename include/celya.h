@@ -9,4 +9,5 @@
 #include <celya/posix.h>
 
 #include <celya/cli.h>
+#include <celya/list.h>
 #include <celya/str.h>
