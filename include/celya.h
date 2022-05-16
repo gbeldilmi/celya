@@ -10,5 +10,6 @@
 
 #include <celya/btree.h>
 #include <celya/cli.h>
+#include <celya/db.h>
 #include <celya/list.h>
 #include <celya/str.h>
